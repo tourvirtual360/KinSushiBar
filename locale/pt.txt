@@ -56,5 +56,6 @@ video_C69D9710_D344_3E76_41E8_D1A3FFB33B3D.label = IMG_2285
 ## Action
 
 ### URL
-LinkBehaviour_C2174481_D2DC_F256_41DD_0C24806161B3.source = bit.ly/deliverykin
+LinkBehaviour_C2174481_D2DC_F256_41DD_0C24806161B3.source = https://linktr.ee/kinsushibar_
 LinkBehaviour_C29EA4F2_D2DC_13BA_41C8_9311CE135962.source = bit.ly/deliverykin
+LinkBehaviour_C5D43566_D35C_12DA_41E2_6B88BFA5C846.source = https://linktr.ee/kinsushibar_
