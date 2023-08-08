@@ -60,5 +60,5 @@ LinkBehaviour_C2174481_D2DC_F256_41DD_0C24806161B3.source = https://linktr.ee/ki
 LinkBehaviour_C29EA4F2_D2DC_13BA_41C8_9311CE135962.source = https://linktr.ee/kinsushibar_
 LinkBehaviour_C5D43566_D35C_12DA_41E2_6B88BFA5C846.source = https://linktr.ee/kinsushibar_
 LinkBehaviour_DC894F3C_D386_A0E0_41B6_E9210C573574.source = https://goo.gl/maps/QwMNm13WrK5SjXSd6
-LinkBehaviour_DDD50074_D386_E160_41C2_8A77F0A5BB31.source = bit.ly/deliverykin
+LinkBehaviour_DDD50074_D386_E160_41C2_8A77F0A5BB31.source = https://wa.link/s1rhf4
 LinkBehaviour_DDEEB30F_D386_E0A0_41E4_558A4E8055C9.source = https://www.instagram.com/kinsushibar/
