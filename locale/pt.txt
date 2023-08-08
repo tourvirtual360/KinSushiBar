@@ -12,7 +12,7 @@ tour.name = Kin Sushi Bar
 
 ### Button
 Button_C245C239_D2C4_16B6_41DE_30825AEB1594.label = RESERVE SUA MESA
-Button_DDB71E19_D2C4_2E76_41E3_1C461BA86027_mobile.label = RESERVE SUA MESA
+Button_DDB71E19_D2C4_2E76_41E3_1C461BA86027_mobile.label = SAIBA MAIS
 Button_DED65963_CBC9_554D_41B7_F323F8C1B71B.label = SALÃO PRINCIPAL
 Button_DED65963_CBC9_554D_41B7_F323F8C1B71B_mobile.label = SALÃO PRINCIPAL
 Button_DEDD77CC_CBC9_5D5B_41E6_5852F4863EDA.label = SALA VIP
@@ -59,3 +59,6 @@ video_C69D9710_D344_3E76_41E8_D1A3FFB33B3D.label = IMG_2285
 LinkBehaviour_C2174481_D2DC_F256_41DD_0C24806161B3.source = https://linktr.ee/kinsushibar_
 LinkBehaviour_C29EA4F2_D2DC_13BA_41C8_9311CE135962.source = https://linktr.ee/kinsushibar_
 LinkBehaviour_C5D43566_D35C_12DA_41E2_6B88BFA5C846.source = https://linktr.ee/kinsushibar_
+LinkBehaviour_DC894F3C_D386_A0E0_41B6_E9210C573574.source = https://goo.gl/maps/QwMNm13WrK5SjXSd6
+LinkBehaviour_DDD50074_D386_E160_41C2_8A77F0A5BB31.source = bit.ly/deliverykin
+LinkBehaviour_DDEEB30F_D386_E0A0_41E4_558A4E8055C9.source = https://www.instagram.com/kinsushibar/
